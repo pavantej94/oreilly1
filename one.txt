@@ -1,3 +1,1 @@
-this is first file
-
-showing difference between work and local repo
+this is merge conflict demo file in devs branch
